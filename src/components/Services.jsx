@@ -41,7 +41,7 @@ const Services = () => {
         <div className="absolute top-40 left-20 w-64 h-64 bg-main-color/10 rounded-full blur-3xl"></div>
       </div>
       
-      <h2 className="text-5.5rem text-center mb-20">
+      <h2 className="text-6.5rem md:text-7.5rem text-center mb-20">
         My <span className="bg-gradient-to-r from-main-color to-accent-color bg-clip-text text-transparent">Services</span>
       </h2>
 

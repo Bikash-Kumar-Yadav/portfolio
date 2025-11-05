@@ -29,7 +29,7 @@ const About = () => {
       </div>
 
       <div className="about-content flex-1 z-10">
-        <h2 className="text-5.5rem text-center md:text-left leading-tight mb-4">
+        <h2 className="text-6.5rem md:text-7.5rem text-center md:text-left leading-tight mb-4">
           About <span className="bg-gradient-to-r from-main-color to-accent-color bg-clip-text text-transparent">Me</span>
         </h2>
         <h3 className="text-3.2rem mb-4 text-main-color">Android Developer</h3>

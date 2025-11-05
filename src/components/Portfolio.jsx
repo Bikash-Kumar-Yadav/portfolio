@@ -42,7 +42,7 @@ const Portfolio = () => {
     <section id="portfolio" className="min-h-screen bg-snd-bg-color/50 backdrop-blur-sm px-[9%] py-[10rem] relative overflow-hidden">
       <div className="absolute bottom-0 right-0 w-96 h-96 bg-main-color/10 rounded-full blur-3xl"></div>
       
-      <h2 className="text-5.5rem text-center mb-16 z-10 relative">
+      <h2 className="text-6.5rem md:text-7.5rem text-center mb-16 z-10 relative">
         Latest <span className="bg-gradient-to-r from-main-color to-accent-color bg-clip-text text-transparent">Projects</span>
       </h2>
 
